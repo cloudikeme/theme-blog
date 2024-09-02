@@ -5,8 +5,8 @@ date: 2024-09-03
 authors:
   - admin
 tags:
-  - Kubernetes
-  - GKE
+  - Markdown
+  - 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
