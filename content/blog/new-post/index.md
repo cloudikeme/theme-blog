@@ -3,6 +3,8 @@ title: 📈 Setup Kubernetes Cluster In Google GKE Using gcloud CLI
 
 ---
 
+Creating a Google Cloud project, enabling the Kubernetes API, and creating a GKE cluster.
+
 # GKE Cluster Setup Using gcloud CLI
 
 ## PART I: CREATE PROJECT & CLUSTER
