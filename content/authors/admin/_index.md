@@ -3,7 +3,7 @@
 title: Victor Ikeme
 
 # Name pronunciation (optional)
-name_pronunciation: Victor Ikeme
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Victor
@@ -21,8 +21,8 @@ role: Cloud Native DevRel Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nigeria, Africa.
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -51,9 +51,9 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://cloudikeme.com"
 ---
 
-ictor Ikeme is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
+Victor Ikeme is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
 distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
 self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
